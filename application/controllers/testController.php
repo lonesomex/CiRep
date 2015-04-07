@@ -9,7 +9,7 @@
 class testController{
  
     public function index(){
-        
+        $varA = 'Hello';
     }
 }
 
